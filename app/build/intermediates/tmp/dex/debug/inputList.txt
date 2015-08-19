@@ -1,0 +1,13 @@
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/classes/debug
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2dc1ade8d572de14f22c727c60d88f52aff7ff20.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-6da3965a348ba673fe05308b1c29adaabdca4cea.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/classes-d190fa875e6d69d3d5263535b8723b262845a8db.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-d44d7cd39802f8d38b248c2e75de25f5b2651220.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-5e46f4090416b6bf1bd8988006b7bde693db743b.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-634a05ec640fa20d23571d9746368d1c32052554.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-6aa0f3a1459f9b287e56435dd2b1c11785987bac.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-2549b083ecd5e5693ddc9957820bbafbfb80e8b8.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/commons-io-2.4-64a1546122ebaa37314ee0c14de3b1c02ddb59ed.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-df7679691a0e6aa4fb33793b41906701bbd2be99.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/classes-55f2e698f9d6afd09cfc7ae90518f83825189d51.jar
+/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/classes-2c574a2f6c8930368718183d88d460d587099a13.jar

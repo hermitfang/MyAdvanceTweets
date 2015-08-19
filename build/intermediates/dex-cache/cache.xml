@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-cd8319f534e51e30a45e906bbbcc5104603363a9.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT-5e46f4090416b6bf1bd8988006b7bde693db743b.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-bf8cd7bcb95f0d500bd4f7929e0acbf4b515c8e6.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-4abd0522d3a2528bb8f8997e38e53cc2bd6c6fb6.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/commons-io-2.4-06056482fbb96ac00f9cbda22f1ed65aab079031.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/classes-55f2e698f9d6afd09cfc7ae90518f83825189d51.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/classes-058d81c40f8a10e7f989a45eb42d9ad88d154bc6.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2dc1ade8d572de14f22c727c60d88f52aff7ff20.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-6aa0f3a1459f9b287e56435dd2b1c11785987bac.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-88def39f539f15327e8ae1859ba00c6dcfef486e.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/classes-d190fa875e6d69d3d5263535b8723b262845a8db.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/commons-io-2.4-64a1546122ebaa37314ee0c14de3b1c02ddb59ed.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-df7679691a0e6aa4fb33793b41906701bbd2be99.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-d44d7cd39802f8d38b248c2e75de25f5b2651220.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-508c95d3a707afdf58798816b7ecbec795d13095.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MySimpleTweets/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-2549b083ecd5e5693ddc9957820bbafbfb80e8b8.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/codepath-utils-6da3965a348ba673fe05308b1c29adaabdca4cea.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/classes-2c574a2f6c8930368718183d88d460d587099a13.jar" />
+    </item>
+    <item
+        jar="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/libs/scribe-codepath-0.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a580d06de954001f787e8d024bfcf931fe30bdda">
+        <dex dex="/Users/hermit/AndroidStudioProjects/MyAdvanceTweets/app/build/intermediates/pre-dexed/debug/scribe-codepath-0.0.3-634a05ec640fa20d23571d9746368d1c32052554.jar" />
+    </item>
+
+</items>
